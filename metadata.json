@@ -1,0 +1,5 @@
+{
+  "name": "AI 기반 학생 포트폴리오",
+  "description": "대학생이 과제 제출용으로 사용하기 적합한 개인 포트폴리오 웹페이지입니다. Gemini API를 활용하여 프로젝트 아이디어를 생성해주는 AI 기능이 포함되어 있습니다.",
+  "requestFramePermissions": []
+}
